@@ -1,0 +1,6 @@
+{
+  "name": "Global Energy Project Professional Community",
+  "description": "An interactive global platform for energy projects professionals across renewables, future fuels, grid tech, and hydrocarbons. Track live countdown events, dynamic speakers, group discussions, and earn custom resident badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
